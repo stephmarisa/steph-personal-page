@@ -1,1 +1,2 @@
-# steph-personal-page
+# Stephanie's Personal Website
+
